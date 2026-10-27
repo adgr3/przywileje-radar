@@ -23,6 +23,7 @@ import sys
 import tempfile
 import time
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 try:
     import requests
@@ -47,6 +48,15 @@ def now() -> dt.datetime:
 
 def iso(d: dt.datetime) -> str:
     return d.astimezone(dt.timezone.utc).replace(microsecond=0).isoformat()
+
+
+def parse_dt(value: str | None) -> dt.datetime | None:
+    if not value:
+        return None
+    d = dt.datetime.fromisoformat(value.replace("Z", "+00:00"))
+    if d.tzinfo is None:
+        d = d.replace(tzinfo=ZoneInfo("Europe/Warsaw"))
+    return d
 
 
 def read_jsonl(path: Path) -> list[dict]:
@@ -147,7 +157,8 @@ def write_live(status: str, attempt: dt.datetime, success: dict | None, run: dic
     missed = False
     if prev_success:
         try:
-            missed = (attempt - dt.datetime.fromisoformat(prev_success.replace("Z", "+00:00"))).total_seconds() > 36 * 3600
+            prev_dt = parse_dt(prev_success)
+            missed = bool(prev_dt and (attempt - prev_dt).total_seconds() > 36 * 3600)
         except ValueError:
             missed = False
     data = {
