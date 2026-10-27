@@ -232,6 +232,7 @@ def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--force", action="store_true")
     ap.add_argument("--no-push", action="store_true")
+    ap.add_argument("--push", action="store_true", help="explicitly publish to the public state repo (default)")
     args = ap.parse_args(argv)
     fh, lock_error = acquire_lock()
     if fh is None:
