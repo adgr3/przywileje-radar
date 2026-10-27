@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+site/data/catalog.json
+radar/cache/
+przywileje-radar-backup-*/
+last-run.log
+.run.lock

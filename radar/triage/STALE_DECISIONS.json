@@ -1,0 +1,522 @@
+{
+ "note": "Rozstrzygnięcia aktualności 14 kart POSSIBLY_OUTDATED (koordynator M022, 2026-10-25). Metoda: dla każdego aktu zmieniającego z datą skutku po dacie stanu tekstu karty wyznaczono zmieniane artykuły ustawy bazowej (radar/amendments.py, tylko blok „W ustawie z dnia … r. – <tytuł>”), a trafienia w cytowane artykuły odczytano ręcznie na poziomie ustępów. Nie jest to opinia prawna; zmiany definicji i odesłań w innych artykułach nie są wykrywane.",
+ "decided_on": "2026-10-25",
+ "decisions": {
+  "R020-001": {
+   "verdict": "CURRENT_CITED_PROVISIONS_UNCHANGED",
+   "justification": "Dz.U. 2026 poz. 473 (skutek 2026-07-08) dodaje w art. 18 u.s.u.s. ust. 1b (podstawa składek po stwierdzeniu stosunku pracy decyzją PIP); cytowane art. 8 ust. 8–9, art. 16 ust. 4 i art. 18 ust. 8 nie zostały zmienione przez żaden z 6 aktów zmieniających po 2026-02-09.",
+   "amendments_checked": [
+    "DU/2025/1413@2026-11-01",
+    "DU/2026/252@2026-04-03",
+    "DU/2026/26@2026-04-13",
+    "DU/2026/426@2026-04-14",
+    "DU/2026/473@2026-07-08",
+    "DU/2026/507@2028-11-01",
+    "DU/2026/734@2026-06-20"
+   ]
+  },
+  "R020-002": {
+   "verdict": "CURRENT_CITED_PROVISIONS_UNCHANGED",
+   "justification": "Dz.U. 2026 poz. 473 dodaje w art. 36 ust. 4e (zgłoszenie po decyzji PIP), a poz. 734 — ust. 13a–13b (zmiana adresu przez profil ZUS); cytowane art. 6 ust. 1 pkt 4, art. 8 ust. 2a i art. 36 ust. 17 bez zmian. Kontekst do karty: od 2026-07-08 PIP może decyzją stwierdzić stosunek pracy zamiast umowy cywilnoprawnej (art. 18 ust. 1b, art. 38b u.s.u.s.).",
+   "amendments_checked": [
+    "DU/2025/1413@2026-11-01",
+    "DU/2026/252@2026-04-03",
+    "DU/2026/26@2026-04-13",
+    "DU/2026/426@2026-04-14",
+    "DU/2026/473@2026-07-08",
+    "DU/2026/507@2028-11-01",
+    "DU/2026/734@2026-06-20"
+   ]
+  },
+  "R020-003": {
+   "verdict": "CURRENT_CITED_PROVISIONS_UNCHANGED",
+   "justification": "Żaden z 7 aktów zmieniających po dacie stanu tekstu nie zmienia cytowanych artykułów (art. 18a).",
+   "amendments_checked": [
+    "DU/2025/1413@2026-11-01",
+    "DU/2026/252@2026-04-03",
+    "DU/2026/26@2026-04-13",
+    "DU/2026/426@2026-04-14",
+    "DU/2026/473@2026-07-08",
+    "DU/2026/507@2028-11-01",
+    "DU/2026/734@2026-06-20"
+   ]
+  },
+  "R020-004": {
+   "verdict": "CURRENT_CITED_PROVISIONS_UNCHANGED",
+   "justification": "Żaden z 7 aktów zmieniających po dacie stanu tekstu nie zmienia cytowanych artykułów (art. 18c).",
+   "amendments_checked": [
+    "DU/2025/1413@2026-11-01",
+    "DU/2026/252@2026-04-03",
+    "DU/2026/26@2026-04-13",
+    "DU/2026/426@2026-04-14",
+    "DU/2026/473@2026-07-08",
+    "DU/2026/507@2028-11-01",
+    "DU/2026/734@2026-06-20"
+   ]
+  },
+  "R020-005": {
+   "verdict": "CURRENT_CITED_PROVISIONS_UNCHANGED",
+   "justification": "Żaden z 7 aktów zmieniających po dacie stanu tekstu nie zmienia cytowanych artykułów (art. 16, art. 22).",
+   "amendments_checked": [
+    "DU/2025/1413@2026-11-01",
+    "DU/2026/252@2026-04-03",
+    "DU/2026/26@2026-04-13",
+    "DU/2026/426@2026-04-14",
+    "DU/2026/473@2026-07-08",
+    "DU/2026/507@2028-11-01",
+    "DU/2026/734@2026-06-20"
+   ]
+  },
+  "R020-007": {
+   "verdict": "CURRENT_CITED_PROVISIONS_UNCHANGED",
+   "justification": "Żaden z 4 aktów zmieniających po dacie stanu tekstu nie zmienia cytowanych artykułów (art. 104).",
+   "amendments_checked": [
+    "DU/2025/1159@2026-01-01",
+    "DU/2025/718@2026-01-01",
+    "DU/2026/26@2026-04-13",
+    "DU/2026/425@2026-04-14"
+   ]
+  },
+  "R020-008": {
+   "verdict": "CURRENT_CITED_PROVISIONS_UNCHANGED",
+   "justification": "Żaden z 4 aktów zmieniających po dacie stanu tekstu nie zmienia cytowanych artykułów (art. 6).",
+   "amendments_checked": [
+    "DU/2025/1159@2026-01-01",
+    "DU/2025/718@2026-01-01",
+    "DU/2026/26@2026-04-13",
+    "DU/2026/425@2026-04-14"
+   ]
+  },
+  "R020-009": {
+   "verdict": "CURRENT_CITED_PROVISIONS_UNCHANGED",
+   "justification": "Żaden z 4 aktów zmieniających po dacie stanu tekstu nie zmienia cytowanych artykułów (art. 32, art. 33).",
+   "amendments_checked": [
+    "DU/2025/1159@2026-01-01",
+    "DU/2025/718@2026-01-01",
+    "DU/2026/26@2026-04-13",
+    "DU/2026/425@2026-04-14"
+   ]
+  },
+  "R020-010": {
+   "verdict": "CURRENT_CITED_PROVISIONS_UNCHANGED",
+   "justification": "Żaden z 4 aktów zmieniających po dacie stanu tekstu nie zmienia cytowanych artykułów (art. 184).",
+   "amendments_checked": [
+    "DU/2025/1159@2026-01-01",
+    "DU/2025/718@2026-01-01",
+    "DU/2026/26@2026-04-13",
+    "DU/2026/425@2026-04-14"
+   ]
+  },
+  "R020-011": {
+   "verdict": "CURRENT_CITED_PROVISIONS_UNCHANGED",
+   "justification": "Żaden z 1 aktów zmieniających po dacie stanu tekstu nie zmienia cytowanych artykułów (art. 3, art. 4).",
+   "amendments_checked": [
+    "DU/2024/1243@2025-01-01"
+   ]
+  },
+  "R020-015": {
+   "verdict": "CURRENT_CITED_PROVISIONS_UNCHANGED",
+   "justification": "Żaden z 7 aktów zmieniających po dacie stanu tekstu nie zmienia cytowanych artykułów (art. 22).",
+   "amendments_checked": [
+    "DU/2025/1413@2026-11-01",
+    "DU/2026/252@2026-04-03",
+    "DU/2026/26@2026-04-13",
+    "DU/2026/426@2026-04-14",
+    "DU/2026/473@2026-07-08",
+    "DU/2026/507@2028-11-01",
+    "DU/2026/734@2026-06-20"
+   ]
+  },
+  "R023-NAU-11": {
+   "verdict": "CURRENT_CITED_PROVISIONS_UNCHANGED",
+   "justification": "Rozporządzenia zmieniające Dz.U. 2025 poz. 344 i 2026 poz. 379 zastępują załącznik ze stawkami minimalnymi (§ 1) — katalog trudnych warunków w § 8 bez zmian; Dz.U. 2026 poz. 187 (skutek 2028-05-19) zmienia w Karcie Nauczyciela art. 9fa, 10, 26, 28b–28c, 39–39a, 42d, nie art. 34.",
+   "amendments_checked": [
+    "DU/2025/344@2025-01-01",
+    "DU/2026/187@2028-05-19",
+    "DU/2026/379@2026-01-01"
+   ]
+  },
+  "R022-POL-01": {
+   "verdict": "CURRENT_CITED_PROVISIONS_UNCHANGED",
+   "justification": "Żaden z 12 aktów zmieniających po dacie stanu tekstu nie zmienia cytowanych artykułów (art. 114, art. 115).",
+   "amendments_checked": [
+    "DU/2025/1366@2025-07-01",
+    "DU/2025/718@2026-01-01",
+    "DU/2026/1004@2026-08-27",
+    "DU/2026/1123@2028-01-01",
+    "DU/2026/1281@2026-10-31",
+    "DU/2026/187@2028-05-19",
+    "DU/2026/421@2026-04-14",
+    "DU/2026/646@2026-06-01",
+    "DU/2026/760@2026-06-12",
+    "DU/2026/815@2026-07-04",
+    "DU/2026/821@2026-06-23",
+    "DU/2026/864@2026-10-01"
+   ]
+  },
+  "R022-POL-02": {
+   "verdict": "CURRENT_CITED_PROVISIONS_UNCHANGED",
+   "justification": "Żaden z 12 aktów zmieniających po dacie stanu tekstu nie zmienia cytowanych artykułów (art. 117).",
+   "amendments_checked": [
+    "DU/2025/1366@2025-07-01",
+    "DU/2025/718@2026-01-01",
+    "DU/2026/1004@2026-08-27",
+    "DU/2026/1123@2028-01-01",
+    "DU/2026/1281@2026-10-31",
+    "DU/2026/187@2028-05-19",
+    "DU/2026/421@2026-04-14",
+    "DU/2026/646@2026-06-01",
+    "DU/2026/760@2026-06-12",
+    "DU/2026/815@2026-07-04",
+    "DU/2026/821@2026-06-23",
+    "DU/2026/864@2026-10-01"
+   ]
+  },
+  "R022-POL-03": {
+   "verdict": "CURRENT_CITED_PROVISIONS_UNCHANGED",
+   "justification": "Żaden z 12 aktów zmieniających po dacie stanu tekstu nie zmienia cytowanych artykułów (art. 120a).",
+   "amendments_checked": [
+    "DU/2025/1366@2025-07-01",
+    "DU/2025/718@2026-01-01",
+    "DU/2026/1004@2026-08-27",
+    "DU/2026/1123@2028-01-01",
+    "DU/2026/1281@2026-10-31",
+    "DU/2026/187@2028-05-19",
+    "DU/2026/421@2026-04-14",
+    "DU/2026/646@2026-06-01",
+    "DU/2026/760@2026-06-12",
+    "DU/2026/815@2026-07-04",
+    "DU/2026/821@2026-06-23",
+    "DU/2026/864@2026-10-01"
+   ]
+  },
+  "R022-POL-04": {
+   "verdict": "CURRENT_CITED_PROVISIONS_UNCHANGED",
+   "justification": "Żaden z 12 aktów zmieniających po dacie stanu tekstu nie zmienia cytowanych artykułów (art. 120d).",
+   "amendments_checked": [
+    "DU/2025/1366@2025-07-01",
+    "DU/2025/718@2026-01-01",
+    "DU/2026/1004@2026-08-27",
+    "DU/2026/1123@2028-01-01",
+    "DU/2026/1281@2026-10-31",
+    "DU/2026/187@2028-05-19",
+    "DU/2026/421@2026-04-14",
+    "DU/2026/646@2026-06-01",
+    "DU/2026/760@2026-06-12",
+    "DU/2026/815@2026-07-04",
+    "DU/2026/821@2026-06-23",
+    "DU/2026/864@2026-10-01"
+   ]
+  },
+  "R022-POL-05": {
+   "verdict": "CURRENT_CITED_PROVISIONS_UNCHANGED",
+   "justification": "Żaden z 12 aktów zmieniających po dacie stanu tekstu nie zmienia cytowanych artykułów (art. 110).",
+   "amendments_checked": [
+    "DU/2025/1366@2025-07-01",
+    "DU/2025/718@2026-01-01",
+    "DU/2026/1004@2026-08-27",
+    "DU/2026/1123@2028-01-01",
+    "DU/2026/1281@2026-10-31",
+    "DU/2026/187@2028-05-19",
+    "DU/2026/421@2026-04-14",
+    "DU/2026/646@2026-06-01",
+    "DU/2026/760@2026-06-12",
+    "DU/2026/815@2026-07-04",
+    "DU/2026/821@2026-06-23",
+    "DU/2026/864@2026-10-01"
+   ]
+  },
+  "R022-POL-06": {
+   "verdict": "CURRENT_CITED_PROVISIONS_UNCHANGED",
+   "justification": "Żaden z 12 aktów zmieniających po dacie stanu tekstu nie zmienia cytowanych artykułów (art. 109).",
+   "amendments_checked": [
+    "DU/2025/1366@2025-07-01",
+    "DU/2025/718@2026-01-01",
+    "DU/2026/1004@2026-08-27",
+    "DU/2026/1123@2028-01-01",
+    "DU/2026/1281@2026-10-31",
+    "DU/2026/187@2028-05-19",
+    "DU/2026/421@2026-04-14",
+    "DU/2026/646@2026-06-01",
+    "DU/2026/760@2026-06-12",
+    "DU/2026/815@2026-07-04",
+    "DU/2026/821@2026-06-23",
+    "DU/2026/864@2026-10-01"
+   ]
+  },
+  "R022-POL-07": {
+   "verdict": "CURRENT_CITED_PROVISIONS_UNCHANGED",
+   "justification": "Żaden z 12 aktów zmieniających po dacie stanu tekstu nie zmienia cytowanych artykułów (art. 70).",
+   "amendments_checked": [
+    "DU/2025/1366@2025-07-01",
+    "DU/2025/718@2026-01-01",
+    "DU/2026/1004@2026-08-27",
+    "DU/2026/1123@2028-01-01",
+    "DU/2026/1281@2026-10-31",
+    "DU/2026/187@2028-05-19",
+    "DU/2026/421@2026-04-14",
+    "DU/2026/646@2026-06-01",
+    "DU/2026/760@2026-06-12",
+    "DU/2026/815@2026-07-04",
+    "DU/2026/821@2026-06-23",
+    "DU/2026/864@2026-10-01"
+   ]
+  },
+  "R022-POL-08": {
+   "verdict": "CURRENT_CITED_PROVISIONS_UNCHANGED",
+   "justification": "Żaden z 12 aktów zmieniających po dacie stanu tekstu nie zmienia cytowanych artykułów (art. 72).",
+   "amendments_checked": [
+    "DU/2025/1366@2025-07-01",
+    "DU/2025/718@2026-01-01",
+    "DU/2026/1004@2026-08-27",
+    "DU/2026/1123@2028-01-01",
+    "DU/2026/1281@2026-10-31",
+    "DU/2026/187@2028-05-19",
+    "DU/2026/421@2026-04-14",
+    "DU/2026/646@2026-06-01",
+    "DU/2026/760@2026-06-12",
+    "DU/2026/815@2026-07-04",
+    "DU/2026/821@2026-06-23",
+    "DU/2026/864@2026-10-01"
+   ]
+  },
+  "R022-POL-09": {
+   "verdict": "CURRENT_CITED_PROVISIONS_UNCHANGED",
+   "justification": "Żaden z 12 aktów zmieniających po dacie stanu tekstu nie zmienia cytowanych artykułów (art. 73).",
+   "amendments_checked": [
+    "DU/2025/1366@2025-07-01",
+    "DU/2025/718@2026-01-01",
+    "DU/2026/1004@2026-08-27",
+    "DU/2026/1123@2028-01-01",
+    "DU/2026/1281@2026-10-31",
+    "DU/2026/187@2028-05-19",
+    "DU/2026/421@2026-04-14",
+    "DU/2026/646@2026-06-01",
+    "DU/2026/760@2026-06-12",
+    "DU/2026/815@2026-07-04",
+    "DU/2026/821@2026-06-23",
+    "DU/2026/864@2026-10-01"
+   ]
+  },
+  "R022-POL-11": {
+   "verdict": "CURRENT_CITED_PROVISIONS_UNCHANGED",
+   "justification": "Żaden z 12 aktów zmieniających po dacie stanu tekstu nie zmienia cytowanych artykułów (art. 82).",
+   "amendments_checked": [
+    "DU/2025/1366@2025-07-01",
+    "DU/2025/718@2026-01-01",
+    "DU/2026/1004@2026-08-27",
+    "DU/2026/1123@2028-01-01",
+    "DU/2026/1281@2026-10-31",
+    "DU/2026/187@2028-05-19",
+    "DU/2026/421@2026-04-14",
+    "DU/2026/646@2026-06-01",
+    "DU/2026/760@2026-06-12",
+    "DU/2026/815@2026-07-04",
+    "DU/2026/821@2026-06-23",
+    "DU/2026/864@2026-10-01"
+   ]
+  },
+  "R022-POL-12": {
+   "verdict": "CURRENT_CITED_PROVISIONS_UNCHANGED",
+   "justification": "Żaden z 12 aktów zmieniających po dacie stanu tekstu nie zmienia cytowanych artykułów (art. 85).",
+   "amendments_checked": [
+    "DU/2025/1366@2025-07-01",
+    "DU/2025/718@2026-01-01",
+    "DU/2026/1004@2026-08-27",
+    "DU/2026/1123@2028-01-01",
+    "DU/2026/1281@2026-10-31",
+    "DU/2026/187@2028-05-19",
+    "DU/2026/421@2026-04-14",
+    "DU/2026/646@2026-06-01",
+    "DU/2026/760@2026-06-12",
+    "DU/2026/815@2026-07-04",
+    "DU/2026/821@2026-06-23",
+    "DU/2026/864@2026-10-01"
+   ]
+  },
+  "R022-WOJ-02": {
+   "verdict": "CURRENT_CITED_PROVISIONS_UNCHANGED",
+   "justification": "Żaden z 8 aktów zmieniających po dacie stanu tekstu nie zmienia cytowanych artykułów (art. 458).",
+   "amendments_checked": [
+    "DU/2025/1014@2025-08-12",
+    "DU/2025/1080@2025-09-07",
+    "DU/2025/718@2026-01-01",
+    "DU/2026/1123@2028-01-01",
+    "DU/2026/26@2027-01-01",
+    "DU/2026/426@2026-04-14",
+    "DU/2026/635@2026-05-27",
+    "DU/2026/815@2026-07-04"
+   ]
+  },
+  "R022-WOJ-03": {
+   "verdict": "CURRENT_CITED_PROVISIONS_UNCHANGED",
+   "justification": "Żaden z 8 aktów zmieniających po dacie stanu tekstu nie zmienia cytowanych artykułów (art. 459, art. 460).",
+   "amendments_checked": [
+    "DU/2025/1014@2025-08-12",
+    "DU/2025/1080@2025-09-07",
+    "DU/2025/718@2026-01-01",
+    "DU/2026/1123@2028-01-01",
+    "DU/2026/26@2027-01-01",
+    "DU/2026/426@2026-04-14",
+    "DU/2026/635@2026-05-27",
+    "DU/2026/815@2026-07-04"
+   ]
+  },
+  "R022-WOJ-07": {
+   "verdict": "CURRENT_CITED_PROVISIONS_UNCHANGED",
+   "justification": "Żaden z 8 aktów zmieniających po dacie stanu tekstu nie zmienia cytowanych artykułów (art. 291).",
+   "amendments_checked": [
+    "DU/2025/1014@2025-08-12",
+    "DU/2025/1080@2025-09-07",
+    "DU/2025/718@2026-01-01",
+    "DU/2026/1123@2028-01-01",
+    "DU/2026/26@2027-01-01",
+    "DU/2026/426@2026-04-14",
+    "DU/2026/635@2026-05-27",
+    "DU/2026/815@2026-07-04"
+   ]
+  },
+  "R022-WOJ-08": {
+   "verdict": "CURRENT_CITED_PROVISIONS_UNCHANGED",
+   "justification": "Żaden z 8 aktów zmieniających po dacie stanu tekstu nie zmienia cytowanych artykułów (art. 446).",
+   "amendments_checked": [
+    "DU/2025/1014@2025-08-12",
+    "DU/2025/1080@2025-09-07",
+    "DU/2025/718@2026-01-01",
+    "DU/2026/1123@2028-01-01",
+    "DU/2026/26@2027-01-01",
+    "DU/2026/426@2026-04-14",
+    "DU/2026/635@2026-05-27",
+    "DU/2026/815@2026-07-04"
+   ]
+  },
+  "R022-WOJ-09": {
+   "verdict": "CURRENT_CITED_PROVISIONS_UNCHANGED",
+   "justification": "Dz.U. 2025 poz. 1014 zmienia w art. 445 tylko ust. 10 (ćwiczenia poligonowe, czasowa zmiana miejsca postoju); cytowane art. 441 ust. 1 oraz art. 445 ust. 1 pkt 1 i ust. 2 pkt 1 lit. a bez zmian — zgodnie z historią zmian zapisaną przez badacza R022.",
+   "amendments_checked": [
+    "DU/2025/1014@2025-08-12",
+    "DU/2025/1080@2025-09-07",
+    "DU/2025/718@2026-01-01",
+    "DU/2026/1123@2028-01-01",
+    "DU/2026/26@2027-01-01",
+    "DU/2026/426@2026-04-14",
+    "DU/2026/635@2026-05-27",
+    "DU/2026/815@2026-07-04"
+   ]
+  },
+  "R022-WOJ-10": {
+   "verdict": "CURRENT_CITED_PROVISIONS_UNCHANGED",
+   "justification": "Żaden z 8 aktów zmieniających po dacie stanu tekstu nie zmienia cytowanych artykułów (art. 449, art. 449b).",
+   "amendments_checked": [
+    "DU/2025/1014@2025-08-12",
+    "DU/2025/1080@2025-09-07",
+    "DU/2025/718@2026-01-01",
+    "DU/2026/1123@2028-01-01",
+    "DU/2026/26@2027-01-01",
+    "DU/2026/426@2026-04-14",
+    "DU/2026/635@2026-05-27",
+    "DU/2026/815@2026-07-04"
+   ]
+  },
+  "R022-WOJ-11": {
+   "verdict": "CURRENT_CITED_PROVISIONS_UNCHANGED",
+   "justification": "Dz.U. 2025 poz. 1014 zmienia w art. 439 tylko ust. 6 (okres decyzji o dodatkach stałych); cytowane art. 439 ust. 1 pkt 3 i art. 449a ust. 1–2 bez zmian.",
+   "amendments_checked": [
+    "DU/2025/1014@2025-08-12",
+    "DU/2025/1080@2025-09-07",
+    "DU/2025/718@2026-01-01",
+    "DU/2026/1123@2028-01-01",
+    "DU/2026/26@2027-01-01",
+    "DU/2026/426@2026-04-14",
+    "DU/2026/635@2026-05-27",
+    "DU/2026/815@2026-07-04"
+   ]
+  },
+  "R022-WOJ-12": {
+   "verdict": "CURRENT_CITED_PROVISIONS_UNCHANGED",
+   "justification": "Żaden z 8 aktów zmieniających po dacie stanu tekstu nie zmienia cytowanych artykułów (art. 442).",
+   "amendments_checked": [
+    "DU/2025/1014@2025-08-12",
+    "DU/2025/1080@2025-09-07",
+    "DU/2025/718@2026-01-01",
+    "DU/2026/1123@2028-01-01",
+    "DU/2026/26@2027-01-01",
+    "DU/2026/426@2026-04-14",
+    "DU/2026/635@2026-05-27",
+    "DU/2026/815@2026-07-04"
+   ]
+  },
+  "R022-WOJ-13": {
+   "verdict": "CURRENT_CITED_PROVISIONS_UNCHANGED",
+   "justification": "Żaden z 8 aktów zmieniających po dacie stanu tekstu nie zmienia cytowanych artykułów (art. 287, art. 288, art. 289).",
+   "amendments_checked": [
+    "DU/2025/1014@2025-08-12",
+    "DU/2025/1080@2025-09-07",
+    "DU/2025/718@2026-01-01",
+    "DU/2026/1123@2028-01-01",
+    "DU/2026/26@2027-01-01",
+    "DU/2026/426@2026-04-14",
+    "DU/2026/635@2026-05-27",
+    "DU/2026/815@2026-07-04"
+   ]
+  },
+  "R022-WOJ-14": {
+   "verdict": "CURRENT_CITED_PROVISIONS_UNCHANGED",
+   "justification": "Żaden z 8 aktów zmieniających po dacie stanu tekstu nie zmienia cytowanych artykułów (art. 293).",
+   "amendments_checked": [
+    "DU/2025/1014@2025-08-12",
+    "DU/2025/1080@2025-09-07",
+    "DU/2025/718@2026-01-01",
+    "DU/2026/1123@2028-01-01",
+    "DU/2026/26@2027-01-01",
+    "DU/2026/426@2026-04-14",
+    "DU/2026/635@2026-05-27",
+    "DU/2026/815@2026-07-04"
+   ]
+  },
+  "R022-WOJ-15": {
+   "verdict": "CURRENT_CITED_PROVISIONS_UNCHANGED",
+   "justification": "Żaden z 8 aktów zmieniających po dacie stanu tekstu nie zmienia cytowanych artykułów (art. 334).",
+   "amendments_checked": [
+    "DU/2025/1014@2025-08-12",
+    "DU/2025/1080@2025-09-07",
+    "DU/2025/718@2026-01-01",
+    "DU/2026/1123@2028-01-01",
+    "DU/2026/26@2027-01-01",
+    "DU/2026/426@2026-04-14",
+    "DU/2026/635@2026-05-27",
+    "DU/2026/815@2026-07-04"
+   ]
+  },
+  "R022-WOJ-16": {
+   "verdict": "CURRENT_CITED_PROVISIONS_UNCHANGED",
+   "justification": "Żaden z 8 aktów zmieniających po dacie stanu tekstu nie zmienia cytowanych artykułów (art. 280, art. 281).",
+   "amendments_checked": [
+    "DU/2025/1014@2025-08-12",
+    "DU/2025/1080@2025-09-07",
+    "DU/2025/718@2026-01-01",
+    "DU/2026/1123@2028-01-01",
+    "DU/2026/26@2027-01-01",
+    "DU/2026/426@2026-04-14",
+    "DU/2026/635@2026-05-27",
+    "DU/2026/815@2026-07-04"
+   ]
+  },
+  "R022-PRO-06": {
+   "verdict": "DEFERRED_PROCEDURAL_CHANGE",
+   "justification": "Dz.U. 2026 poz. 26 zmienia od 2027-01-01 art. 127 § 1a Prawa o prokuraturze: przeniesienie w stan spoczynku z powodu choroby następuje z dniem uprawomocnienia się orzeczenia lekarza orzecznika ZUS. Formuła 75% (art. 100 § 2 PUSP przez odesłanie z art. 127 § 1) bez zmian; kwestia U-07 nadal otwarta.",
+   "amendments_checked": [
+    "DU/2024/1907@2025-01-01",
+    "DU/2025/1172@2026-03-01",
+    "DU/2025/1178@2026-03-01",
+    "DU/2025/1609@2025-12-09",
+    "DU/2025/526@2025-05-07",
+    "DU/2025/820@2025-07-25",
+    "DU/2026/1123@2028-01-01",
+    "DU/2026/1281@2026-10-31",
+    "DU/2026/26@2027-01-01",
+    "DU/2026/370@2026-04-03"
+   ]
+  }
+ }
+}

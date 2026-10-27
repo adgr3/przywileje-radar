@@ -1,0 +1,21 @@
+{
+  "note": "Triaż redakcyjny koordynatora M021 aktów zmieniających wykrytych przez kontrolę aktualności. To NIE jest opinia prawna: ocena oparta na odczytaniu, które przepisy akt zmienia (tekst w research/sources/text). Wyjątki (keep_flag_for) pozostają oznaczone do oceny prawnej.",
+  "acts": {
+    "DU/2026/1281": {
+      "verdict": "NOT_RELEVANT_TO_CATALOG",
+      "date": "2026-10-25",
+      "by": "koordynator M021",
+      "changes": "Ustawa o Policji: wyłącznie art. 19 (kontrola operacyjna); Prawo o prokuraturze: art. 11 § 1; pozostałe artykuły — inne służby, kontrola operacyjna i niszczenie materiałów.",
+      "source_id": "DU_2026_1281",
+      "keep_flag_for": []
+    },
+    "DU/2026/26": {
+      "verdict": "PROCEDURAL_ONLY",
+      "date": "2026-10-25",
+      "by": "koordynator M021",
+      "changes": "Przekazanie orzekania o niezdolności/chorobie lekarzom orzecznikom ZUS: art. 24 ust. 2 ustawy o zaopatrzeniu emerytalnym funkcjonariuszy, art. 71 ust. 1a ustawy o służbie cywilnej, art. 115 Prawa o prokuraturze, zmiany w Prawie o ustroju sądów powszechnych (art. 14 aktu). Nie zmienia formuł, kwot ani progów z kart.",
+      "source_id": "DU_2026_26",
+      "keep_flag_for": ["R022-PRO-06", "R022-PRO-03"]
+    }
+  }
+}

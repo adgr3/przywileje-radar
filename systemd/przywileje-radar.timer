@@ -1,0 +1,12 @@
+[Unit]
+Description=Daily Przywileje radar at 07:00 Europe/Warsaw
+
+[Timer]
+OnCalendar=*-*-* 07:00:00 Europe/Warsaw
+Persistent=true
+RandomizedDelaySec=5m
+AccuracySec=1m
+Unit=przywileje-radar.service
+
+[Install]
+WantedBy=timers.target

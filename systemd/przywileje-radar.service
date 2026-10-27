@@ -1,0 +1,14 @@
+[Unit]
+Description=Przywileje daily radar
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=/home/grantadmin/przywileje-radar
+ExecStart=/usr/bin/python3 /home/grantadmin/przywileje-radar/run_daily.py --push
+TimeoutStartSec=2700
+Nice=10
+IOSchedulingClass=idle
+NoNewPrivileges=true
+PrivateTmp=true
