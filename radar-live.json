@@ -6,20 +6,6 @@
       "acts_new": 0,
       "acts_seen": 135,
       "errors": [],
-      "finished_at": "2026-10-26T12:19:13",
-      "http_requests": 0,
-      "hypotheses_added": 0,
-      "offline": true,
-      "queue_total": 9,
-      "relevant": 8,
-      "run_id": "2026-10-26T12:19:13",
-      "window_from": "2026-09-26",
-      "window_to": "2026-10-26"
-    },
-    {
-      "acts_new": 0,
-      "acts_seen": 135,
-      "errors": [],
       "finished_at": "2026-10-26T12:21:58",
       "http_requests": 0,
       "hypotheses_added": 0,
@@ -115,11 +101,25 @@
       "run_id": "2026-10-27T14:54:34",
       "window_from": "2026-10-25",
       "window_to": "2026-10-27"
+    },
+    {
+      "acts_new": 0,
+      "acts_seen": 0,
+      "errors": [],
+      "finished_at": "2026-10-28T07:00:24",
+      "http_requests": 1,
+      "hypotheses_added": 0,
+      "offline": false,
+      "queue_total": 9,
+      "relevant": 0,
+      "run_id": "2026-10-28T07:00:23",
+      "window_from": "2026-10-25",
+      "window_to": "2026-10-28"
     }
   ],
-  "last_attempt_at": "2026-10-27T14:00:09+00:00",
-  "last_run_id": "2026-10-27T14:54:34",
-  "last_success_at": "2026-10-27T14:54:34",
+  "last_attempt_at": "2026-10-28T06:00:23+00:00",
+  "last_run_id": "2026-10-28T07:00:23",
+  "last_success_at": "2026-10-28T07:00:24",
   "missed": false,
   "new_publications": 0,
   "potentially_affecting": 0,
@@ -130,5 +130,5 @@
   "status": "OK",
   "unclear": 4,
   "window_from": "2026-10-25",
-  "window_to": "2026-10-27"
+  "window_to": "2026-10-28"
 }
