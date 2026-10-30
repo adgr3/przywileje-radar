@@ -1,12 +1,13 @@
-# Radar DU — przebieg 2026-10-29T07:00:52
+# Radar DU — przebieg 2026-10-30T07:00:53
 
-Okno ogłoszeń: 2026-10-26 – 2026-10-29. Aktów w oknie: 16; nowych/zmienionych w tym przebiegu: 16; istotnych: 0.
+Okno ogłoszeń: 2026-10-27 – 2026-10-30. Aktów w oknie: 13; nowych/zmienionych w tym przebiegu: 7; istotnych: 1.
 Hipotezy dodane: 0; kolejka łącznie: 9. Żadna hipoteza nie jest publikowana automatycznie.
 
 ## Akty istotne
 
 | Pozycja | Typ zmiany | Ogłoszono | Wejście w życie | Reguły | Tytuł |
 |---|---|---|---|---|---|
+| [Dz.U. 2026 poz. 1417](https://eli.gov.pl/eli/DU/2026/1417/ogl) | zmiana rozporządzenia | 2026-10-28 | 2026-11-12 | R2:tytuł_świadczenia, R3:tytuł_grupa | Rozporządzenie Prezesa Rady Ministrów z dnia 26 października 2026 r. zmieniające rozporządzenie w sprawie grup zaszeregowania i stawek uposa |
 
 ## Kolejka hipotez (najnowsze 40)
 
