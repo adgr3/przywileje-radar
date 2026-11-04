@@ -1,6 +1,6 @@
-# Radar DU — przebieg 2026-11-03T07:00:44
+# Radar DU — przebieg 2026-11-04T07:00:04
 
-Okno ogłoszeń: 2026-10-31 – 2026-11-03. Aktów w oknie: 0; nowych/zmienionych w tym przebiegu: 0; istotnych: 0.
+Okno ogłoszeń: 2026-11-01 – 2026-11-04. Aktów w oknie: 8; nowych/zmienionych w tym przebiegu: 8; istotnych: 0.
 Hipotezy dodane: 0; kolejka łącznie: 9. Żadna hipoteza nie jest publikowana automatycznie.
 
 ## Akty istotne
