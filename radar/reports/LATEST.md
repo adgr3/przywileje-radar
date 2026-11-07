@@ -1,12 +1,13 @@
-# Radar DU — przebieg 2026-11-06T07:00:00
+# Radar DU — przebieg 2026-11-07T07:00:01
 
-Okno ogłoszeń: 2026-11-03 – 2026-11-06. Aktów w oknie: 11; nowych/zmienionych w tym przebiegu: 4; istotnych: 0.
+Okno ogłoszeń: 2026-11-04 – 2026-11-07. Aktów w oknie: 13; nowych/zmienionych w tym przebiegu: 10; istotnych: 1.
 Hipotezy dodane: 0; kolejka łącznie: 9. Żadna hipoteza nie jest publikowana automatycznie.
 
 ## Akty istotne
 
 | Pozycja | Typ zmiany | Ogłoszono | Wejście w życie | Reguły | Tytuł |
 |---|---|---|---|---|---|
+| [Dz.U. 2026 poz. 1463](https://eli.gov.pl/eli/DU/2026/1463/ogl) | zmiana rozporządzenia | 2026-11-05 | 2027-01-01 | R2:tytuł_świadczenia, R3:tytuł_grupa | Rozporządzenie Ministra Edukacji z dnia 29 października 2026 r. zmieniające rozporządzenie w sprawie sposobu opracowywania sprawozdania z wy |
 
 ## Kolejka hipotez (najnowsze 40)
 
