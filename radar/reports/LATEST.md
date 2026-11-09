@@ -1,13 +1,12 @@
-# Radar DU — przebieg 2026-11-08T07:00:00
+# Radar DU — przebieg 2026-11-09T07:00:10
 
-Okno ogłoszeń: 2026-11-05 – 2026-11-08. Aktów w oknie: 9; nowych/zmienionych w tym przebiegu: 0; istotnych: 1.
+Okno ogłoszeń: 2026-11-06 – 2026-11-09. Aktów w oknie: 0; nowych/zmienionych w tym przebiegu: 0; istotnych: 0.
 Hipotezy dodane: 0; kolejka łącznie: 9. Żadna hipoteza nie jest publikowana automatycznie.
 
 ## Akty istotne
 
 | Pozycja | Typ zmiany | Ogłoszono | Wejście w życie | Reguły | Tytuł |
 |---|---|---|---|---|---|
-| [Dz.U. 2026 poz. 1463](https://eli.gov.pl/eli/DU/2026/1463/ogl) | zmiana rozporządzenia | 2026-11-05 | 2027-01-01 | R2:tytuł_świadczenia, R3:tytuł_grupa | Rozporządzenie Ministra Edukacji z dnia 29 października 2026 r. zmieniające rozporządzenie w sprawie sposobu opracowywania sprawozdania z wy |
 
 ## Kolejka hipotez (najnowsze 40)
 
@@ -20,3 +19,7 @@ Hipotezy dodane: 0; kolejka łącznie: 9. Żadna hipoteza nie jest publikowana a
 - **AMOUNT_OR_FORMULA** · Możliwa zmiana kwoty lub formuły świadczenia — Dz.U. 2026 poz. 1269 §1 · pewność: średnia · DO_PRZEGLĄDU
 - **COMPARATOR_GAP** · Nowe dane do porównania: sluzby_mundurowe / inne — Dz.U. 2026 poz. 1269 §1 · pewność: niska · DO_PRZEGLĄDU
 - **COMPARATOR_GAP** · Nowe dane do porównania: wojsko / deputaty — Dz.U. 2026 poz. 1172 §1 · pewność: niska · DO_PRZEGLĄDU
+
+## Błędy pobierania
+
+- katalog zmieniony od ostatniego przebiegu — ponownie powiązano 0 aktów z okna
