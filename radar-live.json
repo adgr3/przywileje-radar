@@ -1,21 +1,7 @@
 {
-  "acts_seen": 0,
+  "acts_seen": 1,
   "errors": [],
   "history": [
-    {
-      "acts_new": 0,
-      "acts_seen": 0,
-      "errors": [],
-      "finished_at": "2026-11-02T07:00:06",
-      "http_requests": 1,
-      "hypotheses_added": 0,
-      "offline": false,
-      "queue_total": 9,
-      "relevant": 0,
-      "run_id": "2026-11-02T07:00:04",
-      "window_from": "2026-10-30",
-      "window_to": "2026-11-02"
-    },
     {
       "acts_new": 0,
       "acts_seen": 0,
@@ -115,13 +101,29 @@
       "run_id": "2026-11-09T07:00:10",
       "window_from": "2026-11-06",
       "window_to": "2026-11-09"
+    },
+    {
+      "acts_new": 1,
+      "acts_seen": 1,
+      "errors": [
+        "katalog zmieniony od ostatniego przebiegu — ponownie powiązano 1 aktów z okna"
+      ],
+      "finished_at": "2026-11-10T07:00:14",
+      "http_requests": 36,
+      "hypotheses_added": 0,
+      "offline": false,
+      "queue_total": 9,
+      "relevant": 0,
+      "run_id": "2026-11-10T07:00:01",
+      "window_from": "2026-11-07",
+      "window_to": "2026-11-10"
     }
   ],
-  "last_attempt_at": "2026-11-09T06:00:10+00:00",
-  "last_run_id": "2026-11-09T07:00:10",
-  "last_success_at": "2026-11-09T07:00:17",
+  "last_attempt_at": "2026-11-10T06:00:00+00:00",
+  "last_run_id": "2026-11-10T07:00:01",
+  "last_success_at": "2026-11-10T07:00:14",
   "missed": false,
-  "new_publications": 0,
+  "new_publications": 1,
   "potentially_affecting": 0,
   "queue_total": 9,
   "report_url": "https://raw.githubusercontent.com/adgr3/przywileje-radar/main/radar/reports/LATEST.md",
@@ -129,6 +131,6 @@
   "source": "VPS henryk171 / systemd user timer",
   "status": "OK",
   "unclear": 4,
-  "window_from": "2026-11-06",
-  "window_to": "2026-11-09"
+  "window_from": "2026-11-07",
+  "window_to": "2026-11-10"
 }
