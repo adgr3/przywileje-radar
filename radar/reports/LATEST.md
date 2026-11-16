@@ -1,13 +1,12 @@
-# Radar DU — przebieg 2026-11-15T07:00:00
+# Radar DU — przebieg 2026-11-16T07:00:00
 
-Okno ogłoszeń: 2026-11-12 – 2026-11-15. Aktów w oknie: 6; nowych/zmienionych w tym przebiegu: 0; istotnych: 1.
+Okno ogłoszeń: 2026-11-13 – 2026-11-16. Aktów w oknie: 0; nowych/zmienionych w tym przebiegu: 0; istotnych: 0.
 Hipotezy dodane: 0; kolejka łącznie: 16. Żadna hipoteza nie jest publikowana automatycznie.
 
 ## Akty istotne
 
 | Pozycja | Typ zmiany | Ogłoszono | Wejście w życie | Reguły | Tytuł |
 |---|---|---|---|---|---|
-| [Dz.U. 2026 poz. 1492](https://eli.gov.pl/eli/DU/2026/1492/ogl) | tekst jednolity | 2026-11-12 | — | R1:relacja_ELI_do_aktu_z_katalogu | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 22 października 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Kraj |
 
 ## Kolejka hipotez (najnowsze 40)
 
