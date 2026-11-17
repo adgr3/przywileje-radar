@@ -3,22 +3,6 @@
   "errors": [],
   "history": [
     {
-      "acts_new": 0,
-      "acts_seen": 0,
-      "errors": [
-        "katalog zmieniony od ostatniego przebiegu — ponownie powiązano 0 aktów z okna"
-      ],
-      "finished_at": "2026-11-09T07:00:17",
-      "http_requests": 17,
-      "hypotheses_added": 0,
-      "offline": false,
-      "queue_total": 9,
-      "relevant": 0,
-      "run_id": "2026-11-09T07:00:10",
-      "window_from": "2026-11-06",
-      "window_to": "2026-11-09"
-    },
-    {
       "acts_new": 1,
       "acts_seen": 1,
       "errors": [
@@ -119,11 +103,25 @@
       "run_id": "2026-11-16T07:00:00",
       "window_from": "2026-11-13",
       "window_to": "2026-11-16"
+    },
+    {
+      "acts_new": 0,
+      "acts_seen": 0,
+      "errors": [],
+      "finished_at": "2026-11-17T07:00:04",
+      "http_requests": 2,
+      "hypotheses_added": 0,
+      "offline": false,
+      "queue_total": 16,
+      "relevant": 0,
+      "run_id": "2026-11-17T07:00:00",
+      "window_from": "2026-11-14",
+      "window_to": "2026-11-17"
     }
   ],
-  "last_attempt_at": "2026-11-16T06:00:00+00:00",
-  "last_run_id": "2026-11-16T07:00:00",
-  "last_success_at": "2026-11-16T07:00:03",
+  "last_attempt_at": "2026-11-17T06:00:00+00:00",
+  "last_run_id": "2026-11-17T07:00:00",
+  "last_success_at": "2026-11-17T07:00:04",
   "missed": false,
   "new_publications": 0,
   "potentially_affecting": 0,
@@ -133,6 +131,6 @@
   "source": "VPS henryk171 / systemd user timer",
   "status": "OK",
   "unclear": 6,
-  "window_from": "2026-11-13",
-  "window_to": "2026-11-16"
+  "window_from": "2026-11-14",
+  "window_to": "2026-11-17"
 }
