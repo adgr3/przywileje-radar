@@ -1,15 +1,18 @@
-# Radar DU — przebieg 2026-11-18T07:00:01
+# Radar DU — przebieg 2026-11-19T07:00:00
 
-Okno ogłoszeń: 2026-11-15 – 2026-11-18. Aktów w oknie: 9; nowych/zmienionych w tym przebiegu: 9; istotnych: 0.
-Hipotezy dodane: 0; kolejka łącznie: 16. Żadna hipoteza nie jest publikowana automatycznie.
+Okno ogłoszeń: 2026-11-16 – 2026-11-19. Aktów w oknie: 18; nowych/zmienionych w tym przebiegu: 9; istotnych: 1.
+Hipotezy dodane: 2; kolejka łącznie: 18. Żadna hipoteza nie jest publikowana automatycznie.
 
 ## Akty istotne
 
 | Pozycja | Typ zmiany | Ogłoszono | Wejście w życie | Reguły | Tytuł |
 |---|---|---|---|---|---|
+| [Dz.U. 2026 poz. 1509](https://eli.gov.pl/eli/DU/2026/1509/ogl) | nowelizacja ustawy | 2026-11-17 | 2027-01-01 | R1:relacja_ELI_do_aktu_z_katalogu | Ustawa z dnia 22 października 2026 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw |
 
 ## Kolejka hipotez (najnowsze 40)
 
+- **AMENDS_CATALOG_ACT** · Dz.U. 2026 poz. 1509 zmienia akt będący podstawą 1 kart katalogu · pewność: średnia · DO_PRZEGLĄDU
+- **AMOUNT_OR_FORMULA** · Możliwa zmiana kwoty lub formuły świadczenia — Dz.U. 2026 poz. 1509 art. 1 · pewność: niska · DO_PRZEGLĄDU
 - **NEW_CONSOLIDATED_TEXT** · Nowy tekst jednolity (Dz.U. 2026 poz. 1492) aktu z katalogu · pewność: wysoka · DO_PRZEGLĄDU
 - **NEW_CONSOLIDATED_TEXT** · Nowy tekst jednolity (Dz.U. 2026 poz. 1483) aktu z katalogu · pewność: wysoka · DO_PRZEGLĄDU
 - **NEW_FUNDING** · Możliwe nowe finansowanie publiczne — Dz.U. 2026 poz. 1480 §6a · pewność: średnia · DO_PRZEGLĄDU
